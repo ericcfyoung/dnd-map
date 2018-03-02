@@ -1,0 +1,14 @@
+{
+  "name": "map",
+  "version": "1.0.0",
+  "description": "Seagul island map",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server"
+  },
+  "dependencies": {
+    "connect": "^3.6.6",
+    "serve-static": "^1.13.2"
+  }
+}
