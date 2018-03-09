@@ -6,4 +6,4 @@
 yarn start
 ```
 
-got to http://localhost:8080
+go to http://localhost:8080
